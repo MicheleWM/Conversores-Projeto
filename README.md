@@ -1,7 +1,7 @@
 
 # #Conversor
 
-Nesse projeto é possível converter moedas
+Nesse projeto é possível converter moedas, temperatura e distância. 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
